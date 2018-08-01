@@ -1,0 +1,22 @@
+//-----------------------------------------------------------------------------
+// Samuel Guyette
+// sguyette
+// 1518801
+// Sparce.java  
+// pa3
+// CMPS101
+// Spring 2018
+// May 9, 2018
+//-----------------------------------------------------------------------------
+Sparse.java				Reads input file, creates matricies, performs 
+operations and prints to out file.
+
+Matrix.java				Matrix abstract data type used in pa3.
+
+List.java				List abstract data type used in pa3.
+
+MatrixTest.java			Testing program to test Matrix functionallity. 
+
+ListTest.java			Testing program to test list functionallity.
+
+README					Refrence for pa3 files.

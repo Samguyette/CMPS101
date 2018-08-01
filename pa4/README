@@ -1,0 +1,26 @@
+//-----------------------------------------------------------------------------
+// Samuel Guyette
+// sguyette
+// 1518801
+// README
+// pa4
+// CMPS101
+// Spring 2018
+// May 20, 2018
+//-----------------------------------------------------------------------------
+List.c			A list ADT that implements a list of ints in the form of a 
+				doubly linked list
+
+List.h			Header file for List.c
+
+Graph.c			A Graph ADT that implements an adjacency list representation 
+				of graphs using the list ADT. 
+
+Graph.h			Header file for Graph.c
+
+GraphTest.c		Testing program for Graph.c
+
+FindPath.c 		Finds the shorest paths between vertices, dependent on input 
+				file.
+
+README			Refrence for pa4 files.
